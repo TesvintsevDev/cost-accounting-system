@@ -1,4 +1,4 @@
-# Фронтенд приложение учёта расходов. Разработанно на React.
+# Фронтенд приложение учёта расходов. Разработано на React.
 ![cost](https://user-images.githubusercontent.com/83923244/179604019-42ed4dd7-b62e-4dbd-834d-0112a5502545.png)
 
 # Getting Started with Create React App
