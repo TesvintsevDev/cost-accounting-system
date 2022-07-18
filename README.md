@@ -1,3 +1,6 @@
+# Фронтенд приложение учёта расходов. Разработанно на React.
+![cost](https://user-images.githubusercontent.com/83923244/179604019-42ed4dd7-b62e-4dbd-834d-0112a5502545.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
